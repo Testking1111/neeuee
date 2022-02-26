@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x92735b4e8B7e071Cd1b48aeCcD391ABF3eA70a13",
+  "SCAN_LINK": "https://rinkeby.etherscan.io/address/0x92735b4e8b7e071cd1b48aeccd391abf3ea70a13",
+  "NETWORK": {
+    "NAME": "Rinkeby Testnetzwerk",
+    "SYMBOL": "ETH",
+    "ID": 4
+  },
+  "NFT_NAME": "RinkebyNeu",
+  "SYMBOL": "RNFT",
+  "MAX_SUPPLY": 50,
+  "WEI_COST": 300000000000000000,
+  "DISPLAY_COST": 0.3,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://testnets.opensea.io/collection/neueueee",
+  "SHOW_BACKGROUND": true
+}
